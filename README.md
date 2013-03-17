@@ -1,7 +1,7 @@
-AutoFeedback
+AutoFlowControl
 ==================
 
-AutoFeedback is a cyclic-cascaded MapReduce scheduling tool. It has three
+AutoFlowControl is a cyclic-cascaded MapReduce scheduling tool. It has three
 features:
 
 * It uses batch processing instead of stream processing.

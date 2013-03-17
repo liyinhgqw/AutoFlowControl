@@ -1,12 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>yin.autofeedback</groupId>
-	<artifactId>autofeedback</artifactId>
+	<groupId>yin.autoflowcontrol</groupId>
+	<artifactId>autoflowcontrol</artifactId>
 	<packaging>jar</packaging>
-	<name>autofeedback</name>
+	<name>autoflowcontrol</name>
 	<version>0.0.1-SNAPSHOT</version>
-	<description>Auto Feedback for MapReduce Workflow</description>
-	<url>https://github.com/liyinhgqw/AutoFeedback</url>
+	<description>Auto Flow Control for MapReduce Workflow</description>
+	<url>https://github.com/liyinhgqw/AutoFlowControl</url>
 	<licenses>
 		<license>
 			<name>The Apache Software License, Version 2.0</name>
@@ -15,9 +15,9 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:https://github.com/liyinhgqw/AutoFeedback/</connection>
-		<developerConnection>scm:git:https://github.com/liyinhgqw/AutoFeedback/</developerConnection>
-		<url>https://github.com/liyinhgqw/AutoFeedback/</url>
+		<connection>scm:git:https://github.com/liyinhgqw/AutoFlowControl/</connection>
+		<developerConnection>scm:git:https://github.com/liyinhgqw/AutoFlowControl/</developerConnection>
+		<url>https://github.com/liyinhgqw/AutoFlowControl/</url>
 	</scm>
 	<developers>
 		<developer>
